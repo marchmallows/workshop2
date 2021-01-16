@@ -1,0 +1,10 @@
+x = "Hello World"  # str
+x = 20  # int
+x = 20.5
+x = ["apple", "banana", "chery"]  # list
+x = ("apple", "banana", "chery")  # tuple
+x = {"name": "chakit", "age": 20}
+x = {"apple", "banana", "chery"}  # set
+x = frozenset({"apple", "banana", "chery"})  # frozenset
+x = True
+x = b"hello"  # bytes
